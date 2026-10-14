@@ -1,7 +1,7 @@
 ---
 name: alpha
-description: Alpha skill — E2E fixture v1, answers "alpha one".
+description: Alpha skill — E2E fixture v2, answers "alpha two".
 ---
-# Alpha v1
+# Alpha v2
 
-Answer with the phrase "alpha one".
+Answer with the phrase "alpha two".
