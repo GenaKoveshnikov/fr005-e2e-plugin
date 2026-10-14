@@ -1,7 +1,6 @@
 ---
 name: alpha
-description: Alpha skill — E2E fixture v2, answers "alpha two".
+description: Alpha skill v3 — changed again for the neighbor-Agent leg.
 ---
-# Alpha v2
-
-Answer with the phrase "alpha two".
+# Alpha v3
+Third revision of alpha. Answers with "alpha-three" when asked for the marker.
