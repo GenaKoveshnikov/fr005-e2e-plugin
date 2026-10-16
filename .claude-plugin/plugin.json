@@ -1,1 +1,14 @@
-{"name":"fr005-e2e-plugin","version":"1.4.0","description":"Disposable FR-005 E2E fixture pack","author":{"name":"E2E"},"skills":["./skills/alpha","./skills/beta","./skills/gamma","./skills/delta"]}
+{
+  "name": "fr005-e2e-plugin",
+  "version": "1.5.0",
+  "description": "Disposable FR-005 E2E fixture pack",
+  "author": {
+    "name": "E2E"
+  },
+  "skills": [
+    "./skills/alpha",
+    "./skills/beta",
+    "./skills/gamma",
+    "./skills/delta"
+  ]
+}
