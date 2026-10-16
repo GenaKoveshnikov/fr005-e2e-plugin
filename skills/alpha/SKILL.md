@@ -1,6 +1,6 @@
 ---
 name: alpha
-description: Alpha skill v3 — changed again for the neighbor-Agent leg.
+description: Alpha skill v4 — update-apply leg marker.
 ---
-# Alpha v3
-Third revision of alpha. Answers with "alpha-three" when asked for the marker.
+# Alpha v4
+Fourth revision of alpha. Answers with "alpha-four" when asked for the marker.
