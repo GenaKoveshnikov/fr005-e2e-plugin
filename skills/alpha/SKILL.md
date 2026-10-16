@@ -1,6 +1,6 @@
 ---
 name: alpha
-description: Alpha skill v4 — update-apply leg marker.
+description: Alpha skill v4 — second update-apply leg marker.
 ---
-# Alpha v4
-Fourth revision of alpha. Answers with "alpha-four" when asked for the marker.
+# Alpha v5
+Fifth revision of alpha. Answers with "alpha-five" when asked for the marker.
