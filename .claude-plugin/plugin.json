@@ -1,6 +1,6 @@
 {
   "name": "fr005-e2e-plugin",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "description": "Disposable FR-005 E2E fixture pack",
   "author": {
     "name": "E2E"
@@ -13,6 +13,7 @@
     "./skills/arrival-r1-202610172057",
     "./skills/arrival-r2-202610172058",
     "./skills/arrival-r1-202610172102",
-    "./skills/arrival-r2-202610172103"
+    "./skills/arrival-r2-202610172103",
+    "./skills/arrival-r1-202610172110"
   ]
 }
